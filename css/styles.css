@@ -13,16 +13,17 @@ ul.sidenav {
     }
 li{ float: left;}
 
-li a:hover {
+ul.sidenav li a:hover {
     
     color: aqua;
 }
-a{
+ul.sidenav li a{
     display: block;
     padding: 8px 16px;
     text-decoration: none;
     font-size: 18px;
-    color: ghostwhite;
+    color:#b2ebf2;
+    
     
 }
 
@@ -40,11 +41,18 @@ a{
   align-items: center;
   justify-content: center;
 }
+#foot{
+    display: flex;
+    position: fixed;
+    align-items: flex-end;
+    justify-content: center;
+}
 #kabi{
-    font-family: 'Abril Fatface', cursive;
-    font-size: 15vw;
+    font-family: 'Shrikhand', cursive;
+ 
+    font-size: 10vw;
     text-align: center;
-    color: aqua;
+    color: #29b6f6;
      
 }
 .fa {
