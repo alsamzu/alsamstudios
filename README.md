@@ -12,5 +12,5 @@ the technology used in this project was:
 ### Libraries used
 animate.css
 ### Images used are from:
-Images used are from https://unsplash.com/
+Images used are from https://unsplash.com
 

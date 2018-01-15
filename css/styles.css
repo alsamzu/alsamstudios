@@ -1,5 +1,5 @@
 body{
-   background-color: black;
+   background-color:#e3f2fd;
     background-size: 100% 100%;
 }
 ul.sidenav {
@@ -22,15 +22,15 @@ ul.sidenav li a{
     padding: 8px 16px;
     text-decoration: none;
     font-size: 18px;
-    color:#b2ebf2;
+    color:#0d47a1;
     
     
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 576px) {
     ul.sidenav li a {
         text-align: center;
-        float: none;
+        float: right;
     }
 }
 .container {
@@ -85,6 +85,10 @@ ul.sidenav li a{
 }
 
 h6{
-    color: azure;
+    color: #0d47a1;
     text-align: center;
+}
+#ma{
+    top: 25%;
+    
 }
