@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # alsamstudios
+=======
+# StudioAfrique
+>>>>>>> ba4da9825ff5df383d6355eec85c96d9a41260ca
 Studio Afrique is a music show that brings artists from different genres and regions together
 
 
