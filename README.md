@@ -17,4 +17,6 @@ the technology used in this project was:
 animate.css
 ### Images used are from:
 Images used are from https://unsplash.com
+# fonts
+googlefonts
 
